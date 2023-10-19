@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, I'm [Alleyf](https://fcsy.fit), A college student desired to be a full-stack developer:
+Hello, I'm [Alleyf](https://alleyf.github.io/), A college student desired to be a full-stack developer:
 
 - 👨‍💼 I currently study in Wuhan,China.
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I currently learn English.
