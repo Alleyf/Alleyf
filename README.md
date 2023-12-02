@@ -3,9 +3,9 @@
 Hello, I'm [Alleyf](https://alleyf.github.io/), A college student desired to be a full-stack developer:
 
 - 👨‍💼 I currently study in Wuhan,China.
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I currently learn English.
-- 📺 I currently continue to make some [webs](https://alleyf.github.io/) about learning programming. 
-- 👯 I look for cooperation opportunities on [competition].
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I currently learn Java Development.
+- 📺 I currently continue to write some [Blogs](https://alleyf.github.io/) about learning programming. 
+- 👯 I look for cooperation opportunities on [SpringCloud,LLM,KG].
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
