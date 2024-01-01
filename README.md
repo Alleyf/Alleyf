@@ -1,3 +1,6 @@
+**Read this in other languages: [English](README.md), [中文](README_zh.md).**
+
+
 <h1 align="center">Hi 👋, I'm Alleyf</h1>
 <h3 align="center">A passionate backend developer from China</h3>
 <p align="center">
