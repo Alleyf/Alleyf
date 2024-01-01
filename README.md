@@ -1,10 +1,30 @@
 <h1 align="center">Hi 👋, I'm Alleyf</h1>
 <h3 align="center">A passionate backend developer from China</h3>
-
 <p align="center">
 <a href="https://github.com/alleyf" target="blank"><img src="https://img.shields.io/twitter/follow/alleyf?logo=github&style=for-the-badge" alt="alleyf" /></a>
 </p>
 
+> Motto：**You know more, you will do not know more.**
+
+
+### Fellings：
+<!-- 
+<p>1. 不是<font color="#6425d0">牛码</font>，就在成为<font color="#6425d0">牛码</font>的路上。</p>
+<p>2. 在每个<font color="#00b050">平庸</font>的日子里，找到属于自己的<font color="#00b050">归属感</font>。</p>
+<p>3. 无论做什么事，都要找到支撑自己坚持下去的<font color="#245bdb">精神支柱</font>。</p>
+-->
+
+1. Not a cow code, on the way to becoming a cow code.
+
+2. Find your sense of belonging in every mediocre day.
+
+3. No matter what you do, find the spiritual support to keep yourself going.
+
+<p align="center">
+  <img src="https://github.com/dongyuanwai/readme-become-better/raw/main/images/coding.gif" />
+</p>
+
+---
 <!--  <p align="center"> <a href="https://github.com/Alleyf/AIMedocSystem"><img src="https://github-profile-trophy.vercel.app/?username=alleyf" alt="alleyf" /></a> </p> -->
 
 
@@ -53,3 +73,6 @@
   <img width="37%" src="https://github-readme-streak-stats.herokuapp.com/?user=alleyf&" alt="alleyf" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/dongyuanwai/readme-become-better/raw/main/icon/github-contribution-grid-snake.svg" />
+</p>
