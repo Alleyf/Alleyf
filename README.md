@@ -5,7 +5,7 @@
 <a href="https://github.com/alleyf" target="blank"><img src="https://img.shields.io/twitter/follow/alleyf?logo=github&style=for-the-badge" alt="alleyf" /></a>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alleyf" alt="alleyf" /></a> </p>
+<!--  <p align="center"> <a href="https://github.com/Alleyf/AIMedocSystem"><img src="https://github-profile-trophy.vercel.app/?username=alleyf" alt="alleyf" /></a> </p> -->
 
 
 - 🔭 I’m currently working on **HUST**
