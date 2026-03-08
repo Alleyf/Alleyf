@@ -25,11 +25,11 @@
 
 - 🔭 我目前在 **华中科技大学** 读研
 
-- 🌱 我正在学习 **SpringBoot, SpringCloud, Vue, React, Docker, K8s, DL** 
+- 🌱 我正在学习 **SpringBoot, SpringCloud, Vue, React, Docker, K8s, DL**
+
+- 🤝 我正在找一份**软件开发**岗位的实习
 
 - 👯 我正在寻求与 **LLM | KG | Java** 相关的合作
-
-- 🤝 我需要在 **MSHDCF（多源异构数据汇聚融合处理平台）** 方面寻求帮助
 
 - 👨‍💻 我的所有项目都可以在 [https://github.com/Alleyf](https://github.com/Alleyf) 找到
 
