@@ -35,9 +35,9 @@
 
 - 🌱 I’m currently learning **SpringBoot,SpringCloud,Vue,React,Docker,K8s,DL**
 
-- 👯 I’m looking to collaborate on **LLM | KG | Java**
+- 🤝 I am looking for a **software development internship**
 
-- 🤝 I’m looking for help with **MSHDCF**
+- 👯 I’m looking to collaborate on **LLM | KG | Java**
 
 - 👨‍💻 All of my projects are available at [https://alleyf.github.io](https://alleyf.github.io)
 
