@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Alleyf</h1>
-<h3 align="center">A passionate backend developer from China</h3>
+<h3 align="center">A passionate full-stack engineer from China</h3>
 <p align="center">
 <a href="https://github.com/alleyf" target="blank"><img src="https://img.shields.io/twitter/follow/alleyf?logo=github&style=for-the-badge" alt="alleyf" /></a>
 </p>
